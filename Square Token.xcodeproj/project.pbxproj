@@ -405,6 +405,7 @@
 				27F7586A19DAF95A008C0412 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		27F7586B19DAF95A008C0412 /* Build configuration list for PBXNativeTarget "Square TokenTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				27F7586D19DAF95A008C0412 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
